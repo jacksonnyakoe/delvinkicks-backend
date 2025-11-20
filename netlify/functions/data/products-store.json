@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Jordan 4",
+    "category": "Sneakers",
+    "description": "Classic Air Jordan 4 sneakers with premium materials and iconic design",
+    "price": 3999,
+    "sizes": "40 - 45",
+    "image": "images/Nike Air Jordan 4.jpg",
+    "created": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Elegant Leather",
+    "category": "Official",
+    "description": "Premium leather formal shoes for business and special occasions",
+    "price": 4499,
+    "sizes": "40 - 45",
+    "image": "images/Classic Leather Oxfords.jpg",
+    "created": "2025-01-15T10:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Nike Air Force 1 07 Low Triple Black",
+    "category": "Sneakers",
+    "description": "Classic Air Force 1 Low with timeless style and comfort",
+    "price": 3499,
+    "sizes": "38 - 45",
+    "image": "images/Nike-Air-Force-1-Low-white.jpg",
+    "created": "2025-01-15T10:00:00.000Z"
+  }
+]
