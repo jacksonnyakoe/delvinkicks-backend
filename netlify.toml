@@ -1,0 +1,15 @@
+[build]
+  functions = "netlify/functions"
+  publish = "."
+
+[functions]
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+# Environment variables (set these in Netlify dashboard)
+# ADMIN_USERNAME=admin
+# ADMIN_PASSWORD=your_secure_password
